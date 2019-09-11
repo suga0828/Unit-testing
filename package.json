@@ -1,0 +1,21 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit testing with Jasmine",
+  "main": "src/app.front.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "jasmine",
+    "javascript",
+    "node"
+  ],
+  "author": "Alexander Sandoval",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
